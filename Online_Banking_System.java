@@ -442,7 +442,7 @@ public class Online_Banking_System
     public static class DatabaseConnection {
         private static final String URL = "jdbc:mysql://localhost:3306/banking_system";
         private static final String USERNAME = "root";
-        private static final String PASSWORD = "Soni@1234";
+        private static final String PASSWORD = "" // your password;
 
         static 
         {
